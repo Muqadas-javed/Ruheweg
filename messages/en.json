@@ -1,0 +1,414 @@
+{
+  "metadata": {
+    "title": "RuheWeg | Dignified Funeral Services in Germany",
+    "description": "RuheWeg provides compassionate and professional funeral services, supporting families with dignity, care, and complete arrangements during difficult times. Available 24/7.",
+    "keywords": "funeral services Germany, burial services, cremation services, funeral planning, memorial services, compassionate funeral care"
+  },
+  "header": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About Us",
+    "contact": "Contact"
+  },
+  "home": {
+    "viewAllServices": "View All Services"
+  },
+  "hero": {
+    "title": "You Don't Have to Face This Alone",
+    "subtitle": "In moments of loss, we are here to carry some of the burden. With gentle guidance and heartfelt care, we help you honor your loved one's memory.",
+    "reassurance": "Serving families across Germany with compassion since day one. We understand — and we're here for you.",
+    "availability": "Available 24/7 — Someone is always here when you need us",
+    "callNow": "Call us now, day or night",
+    "ctaSecondary": "Or send us a message"
+  },
+  "serviceOverview": {
+    "title": "Complete Funeral Services",
+    "subtitle": "How We Can Help",
+    "emotionalLine": "During this difficult time, let us handle the details so you can focus on what matters most.",
+    "description": "We provide comprehensive funeral services throughout Germany, delivered with dignity, respect, and attention to every detail.",
+    "viewAll": "View All Services",
+    "services": {
+      "burial": {
+        "title": "Burial Services",
+        "description": "Traditional burial services with dignified ceremonies, handling all arrangements from preparation to the final resting place."
+      },
+      "cremation": {
+        "title": "Cremation Services",
+        "description": "Respectful cremation services with flexible memorial options, including urn selection and ash scattering arrangements."
+      },
+      "planning": {
+        "title": "Funeral Planning",
+        "description": "Comprehensive funeral planning assistance, helping you create a meaningful farewell that honors your loved one's memory."
+      },
+      "documentation": {
+        "title": "Documentation & Legal Support",
+        "description": "Complete assistance with death certificates, legal paperwork, and administrative requirements during this difficult time."
+      },
+      "transportation": {
+        "title": "Transportation Services",
+        "description": "Dignified transportation services for your loved one, including local and international repatriation arrangements."
+      },
+      "memorial": {
+        "title": "Memorial Services",
+        "description": "Personalized memorial ceremonies celebrating life, creating meaningful moments for family and friends to gather."
+      }
+    }
+  },
+  "trust": {
+    "title": "Why Families Trust Us",
+    "subtitle": "Our Promise to You",
+    "reassurance": "We know this is one of the hardest moments of your life. That's why we treat every family with the same care we would want for our own.",
+    "items": {
+      "available": {
+        "title": "Available 24/7",
+        "description": "We're here whenever you need us, day or night, providing immediate support and guidance."
+      },
+      "experienced": {
+        "title": "Experienced Professionals",
+        "description": "Our certified team brings decades of experience in compassionate funeral care."
+      },
+      "transparent": {
+        "title": "Transparent Process",
+        "description": "Clear pricing and honest communication throughout, so you always know what to expect."
+      },
+      "personalized": {
+        "title": "Personalized Services",
+        "description": "Every farewell is unique. We tailor our services to honor your loved one's life and wishes."
+      }
+    }
+  },
+  "aboutPreview": {
+    "title": "Compassionate Support When You Need It Most",
+    "subtitle": "About RuheWeg",
+    "description1": "At RuheWeg, we understand how difficult loss can be. Our mission is to support families with dignity, respect, and professional guidance at every step of the journey.",
+    "description2": "With years of experience and a commitment to compassionate care, we ensure that every farewell is as unique and meaningful as the life it celebrates.",
+    "badges": {
+      "certified": "Certified Professionals",
+      "compassionate": "Compassionate Approach",
+      "experienced": "Years of Experience",
+      "dedicated": "Dedicated Support"
+    },
+    "learnMore": "Learn More About Us"
+  },
+  "location": {
+    "title": "Serving Families Across Germany",
+    "description": "We provide funeral services throughout Germany, supporting families with respectful and professional care wherever you are located.",
+    "regions": {
+      "berlin": "Berlin",
+      "munich": "Munich",
+      "hamburg": "Hamburg",
+      "frankfurt": "Frankfurt",
+      "nationwide": "& Nationwide"
+    }
+  },
+  "contactCta": {
+    "title": "We're Here to Help",
+    "description": "Contact us anytime — we are here to provide compassionate support and guidance during this difficult time.",
+    "available": "Available 24 hours, 7 days a week",
+    "phone": {
+      "label": "Call us directly"
+    },
+    "button": "Send a Message"
+  },
+  "guidance": {
+    "title": "How We Can Help",
+    "subtitle": "Guidance & Support",
+    "cards": {
+      "firstSteps": {
+        "title": "When someone dies",
+        "button": "Learn More",
+        "link": "/services"
+      },
+      "planningFarewell": {
+        "title": "Planning a farewell",
+        "button": "Learn More",
+        "link": "/services"
+      },
+      "griefSupport": {
+        "title": "Help with bereavement",
+        "button": "Learn More",
+        "link": "/about"
+      }
+    }
+  },
+  "features": {
+    "personal": {
+      "title": "Personal Service",
+      "description": "We listen carefully, explain all options and support you to create a farewell tailored to you and your loved ones."
+    },
+    "continuity": {
+      "title": "Continuity of Care",
+      "description": "You'll be looked after by the same funeral director throughout the arrangements and at the funeral whenever possible."
+    },
+    "experience": {
+      "title": "Decades of Experience",
+      "description": "With years of experience, our kind, professional and compassionate team truly cares about every family we serve."
+    },
+    "transparent": {
+      "title": "Transparent Approach",
+      "description": "Our team listens and carefully explains your options simply and honestly, making sure you feel supported and in control."
+    }
+  },
+  "servicesPage": {
+    "title": "Compassionate Services for Life Transitions",
+    "subtitle": "Our Services",
+    "services": {
+      "nonConfessional": {
+        "title": "Non-Confessional Farewell Celebration",
+        "description": "We offer personal and meaningful farewell celebrations that are free from religious affiliations. Each ceremony is individually designed to honor the life and personality of the deceased."
+      },
+      "ceremony": {
+        "title": "Farewell Ceremony Procedure",
+        "description": "Our carefully planned procedure guides you through every step of the ceremony. From the welcome to personal words to the final farewell – we ensure a dignified and moving framework."
+      },
+      "venueOrganization": {
+        "title": "Venue Organization",
+        "description": "We handle the complete organization of the memorial service venues. Whether in a chapel, outdoors, or at a special location – we take care of all details of decoration and design."
+      },
+      "personalRitual": {
+        "title": "Personal Ceremonial Ritual",
+        "description": "Create a unique ritual that reflects the personality and wishes of the deceased. We help you integrate meaningful elements that create comfort and remembrance."
+      },
+      "urnService": {
+        "title": "Extended Urn Burial Service",
+        "description": "Our comprehensive service for urn burials includes the dignified design of the ceremony, the selection of the appropriate location, and accompanying the family through the entire process."
+      }
+    },
+    "cta": {
+      "title": "Let's Plan Together",
+      "description": "We are here to support you and create a dignified farewell ceremony.",
+      "button": "Contact Us"
+    }
+  },
+  "howWeHelp": {
+    "title": "How RuheWeg Supports You",
+    "subtitle": "Our Approach",
+    "steps": {
+      "simple": {
+        "label": "Step 1",
+        "title": "Simple Process",
+        "description": "We simplify the planning process for a dignified farewell so you can focus on what matters most."
+      },
+      "personal": {
+        "label": "Step 2",
+        "title": "Personal Consultation",
+        "description": "In a confidential conversation, we capture your wishes and the special characteristics of the deceased."
+      },
+      "support": {
+        "label": "Step 3",
+        "title": "Supportive Guidance",
+        "description": "We accompany you with empathetic support throughout the time of mourning and beyond."
+      }
+    }
+  },
+  "cta": {
+    "title": "Find Comfort and Guidance Today",
+    "subtitle": "Contact Us",
+    "description": "Reach out for compassionate support in planning a personalized farewell ceremony.",
+    "button": "More Information"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "We are here for you – 24 hours a day, 7 days a week",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Address",
+    "addressValue": "Friedhofstraße 12\n12345 Musterstadt, Germany",
+    "emergencyLine": "Emergency line available 24/7",
+    "form": {
+      "name": "Your Name",
+      "email": "Your Email",
+      "message": "Your Message",
+      "submit": "Send Message"
+    }
+  },
+  "aboutPage": {
+    "title": "About Us",
+    "subtitle": "With compassion and understanding, we guide families through life's most difficult moments, creating meaningful farewells that honor every unique life.",
+    "heroLabel": "Who We Are",
+    "description": "With dignity and compassion, we accompany you",
+    "intro": {
+      "subtitle": "Our Story",
+      "title": "Compassionate Care When You Need It Most",
+      "description1": "At RuheWeg, we believe that every person deserves a farewell as unique as the life they lived. Our dedicated team brings together years of experience, professional training, and genuine compassion to support families during their most challenging times.",
+      "description2": "We take pride in offering personalized services that reflect your wishes and honor your loved one's memory. From the first consultation to the final farewell, we walk alongside you with patience, understanding, and unwavering support.",
+      "available": "Available 24/7"
+    },
+    "journey": {
+      "subtitle": "My Journey",
+      "title": "On the Path to Compassionate Care",
+      "description": "As a certified freelance funeral speaker, trained at the prestigious Ceremonies Academy in Zürich, I specialize in creating meaningful non-confessional farewells. My background of over 40 years as a baker and confectioner taught me the importance of craftsmanship, attention to detail, and serving others with care.",
+      "description2": "The sudden loss of my brother transformed my understanding of grief and inspired me to dedicate my life to helping others navigate their farewell journey with compassion, dignity, and understanding.",
+      "cert1": "Certified Funeral Speaker",
+      "cert2": "Ceremonies Academy Zürich"
+    },
+    "values": {
+      "subtitle": "What Guides Us",
+      "title": "Our Core Values",
+      "compassion": "Compassion",
+      "compassionDesc": "We approach every family with genuine empathy and understanding.",
+      "dignity": "Dignity",
+      "dignityDesc": "We ensure every farewell honors the unique life it celebrates.",
+      "trust": "Trust",
+      "trustDesc": "We build lasting relationships through transparency and reliability.",
+      "professionalism": "Professionalism",
+      "professionalismDesc": "We deliver exceptional service with care and attention to detail."
+    },
+    "mission": {
+      "title": "Our Mission",
+      "quote": "Every person deserves a farewell that honors their unique life journey and brings comfort, healing, and closure to those left behind. We are here to make that possible."
+    },
+    "cta": {
+      "title": "Let Us Help You",
+      "description": "We're here to support you through this difficult time. Reach out for a compassionate conversation about how we can help.",
+      "button": "Contact Us Today"
+    }
+  },
+  "contactPage": {
+    "title": "Contact",
+    "subtitle": "We are here for you – 24 hours a day, 7 days a week",
+    "emergency": "Emergency line around the clock:",
+    "info": {
+      "title": "Contact Information",
+      "description": "We are always available for you. Don't hesitate to contact us – we are here to help.",
+      "phone": "Phone",
+      "email": "Email",
+      "address": "Address",
+      "addressValue": "Friedhofstraße 12\n12345 Musterstadt, Germany"
+    },
+    "form": {
+      "title": "Send a Message",
+      "name": "Your Name",
+      "email": "Your Email",
+      "phone": "Your Phone Number",
+      "message": "Your Message",
+      "submit": "Send Message"
+    }
+  },
+  "journey": {
+    "subtitle": "My Journey",
+    "title": "On the Path to Compassionate Care",
+    "description": "As a certified freelance funeral speaker, trained at the Ceremonies Academy in Zürich, I specialize in non-confessional farewells. With over 40 years of experience as a baker and confectioner, I now dedicate myself to creating personalized funeral ceremonies. My own experience with the sudden loss of my brother drives my commitment to helping others say farewell with compassion and understanding."
+  },
+  "footer": {
+    "copyright": "© 2026 RuheWeg. All rights reserved.",
+    "privacy": "Privacy Policy",
+    "imprint": "Imprint",
+    "terms": "Terms of Service",
+    "tagline": "Dignified funeral services with compassion and care. Supporting families across Germany during life's most difficult moments.",
+    "available247": "Available 24/7",
+    "servicesTitle": "Our Services",
+    "services": {
+      "burial": "Burial Services",
+      "cremation": "Cremation Services",
+      "planning": "Funeral Planning",
+      "memorial": "Memorial Services"
+    },
+    "quickLinks": "Quick Links"
+  },
+  "languageSwitch": {
+    "label": "Language"
+  },
+  "faq": {
+    "subtitle": "Common Questions",
+    "title": "Frequently Asked Questions",
+    "description": "We understand you may have many questions. Here are answers to some of the most common ones.",
+    "questions": {
+      "q1": {
+        "question": "What should I do immediately after a loved one passes away?",
+        "answer": "First, contact emergency services if needed, then reach out to us. We're available 24/7 and will guide you through every step, including obtaining the death certificate, arranging transportation, and beginning funeral planning."
+      },
+      "q2": {
+        "question": "How much do funeral services typically cost?",
+        "answer": "Costs vary based on the type of service and personal preferences. We offer transparent pricing and will provide a detailed estimate during our consultation. We also offer flexible payment options to ease financial concerns."
+      },
+      "q3": {
+        "question": "What is the difference between burial and cremation?",
+        "answer": "Burial involves placing the body in a casket in a cemetery plot. Cremation reduces the body to ashes, which can be kept in an urn, scattered, or placed in a columbarium. Both options can include a full memorial service."
+      },
+      "q4": {
+        "question": "How long does it take to arrange a funeral?",
+        "answer": "Typically, a funeral can be arranged within 3-7 days. However, we can accommodate different timelines based on religious requirements, family needs, or other circumstances. We handle all logistics to ensure a smooth process."
+      },
+      "q5": {
+        "question": "Can we personalize the funeral service?",
+        "answer": "Absolutely. We encourage personalization to honor your loved one's unique life. This can include music choices, photo displays, readings, special rituals, or themed decorations that reflect their personality and interests."
+      },
+      "q6": {
+        "question": "Do you offer pre-planning services?",
+        "answer": "Yes, pre-planning allows you to make decisions about your own funeral in advance, relieving your family of this burden later. It also helps lock in current prices and ensures your wishes are documented."
+      }
+    }
+  },
+  "stats": {
+    "subtitle": "Our Impact",
+    "title": "Trusted by Families Across Germany",
+    "items": {
+      "families": {
+        "value": "500+",
+        "label": "Families Supported"
+      },
+      "years": {
+        "value": "15+",
+        "label": "Years of Experience"
+      },
+      "available": {
+        "value": "24/7",
+        "label": "Always Available"
+      },
+      "satisfaction": {
+        "value": "98%",
+        "label": "Family Satisfaction"
+      }
+    }
+  },
+  "testimonials": {
+    "subtitle": "Family Experiences",
+    "title": "What Families Say About Us",
+    "items": {
+      "testimonial1": {
+        "name": "Michael S.",
+        "location": "Berlin, Germany",
+        "quote": "During the most difficult time in our lives, RuheWeg was there for us with incredible compassion. They handled everything with such dignity and care. We couldn't have gotten through it without them."
+      },
+      "testimonial2": {
+        "name": "Anna K.",
+        "location": "Munich, Germany",
+        "quote": "The team at RuheWeg made my mother's farewell truly special. They listened to our wishes and created a beautiful ceremony that perfectly honored her memory. Forever grateful."
+      },
+      "testimonial3": {
+        "name": "Thomas M.",
+        "location": "Hamburg, Germany",
+        "quote": "Professional, compassionate, and available whenever we needed them. RuheWeg guided us through every step with patience and understanding. I highly recommend their services."
+      }
+    }
+  },
+  "process": {
+    "subtitle": "How It Works",
+    "title": "Our Simple Process",
+    "description": "We've designed our process to be as stress-free as possible, so you can focus on what matters most.",
+    "steps": {
+      "step1": {
+        "title": "Initial Contact",
+        "description": "Call us anytime. We'll listen, answer your questions, and arrange an initial meeting at your convenience."
+      },
+      "step2": {
+        "title": "Personal Consultation",
+        "description": "We meet to understand your wishes, discuss options, and create a plan that honors your loved one."
+      },
+      "step3": {
+        "title": "We Handle Everything",
+        "description": "From documentation to logistics, we take care of all the details so you don't have to worry."
+      },
+      "step4": {
+        "title": "Meaningful Farewell",
+        "description": "A dignified ceremony that celebrates your loved one's life and provides closure for family and friends."
+      }
+    }
+  },
+  "floatingCta": {
+    "title": "Need Immediate Help?",
+    "message": "We're available 24/7. Call us now for compassionate support.",
+    "ariaLabel": "Call us for immediate assistance"
+  }
+}

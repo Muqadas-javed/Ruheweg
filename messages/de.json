@@ -1,0 +1,414 @@
+{
+  "metadata": {
+    "title": "RuheWeg | Würdevolle Bestattungsdienstleistungen in Deutschland",
+    "description": "RuheWeg bietet einfühlsame und professionelle Bestattungsdienstleistungen. Wir unterstützen Familien mit Würde, Fürsorge und umfassenden Arrangements in schweren Zeiten. Rund um die Uhr erreichbar.",
+    "keywords": "Bestattungsdienstleistungen Deutschland, Beerdigung, Einäscherung, Trauerfeier, Gedenkfeier, einfühlsame Trauerbegleitung"
+  },
+  "header": {
+    "home": "Startseite",
+    "services": "Leistungen",
+    "about": "Über uns",
+    "contact": "Kontakt"
+  },
+  "home": {
+    "viewAllServices": "Alle Leistungen ansehen"
+  },
+  "hero": {
+    "title": "Sie müssen das nicht alleine durchstehen",
+    "subtitle": "In Momenten des Verlusts sind wir da, um Ihnen einen Teil der Last abzunehmen. Mit einfühlsamer Begleitung helfen wir Ihnen, das Andenken Ihres geliebten Menschen zu ehren.",
+    "reassurance": "Wir begleiten Familien in ganz Deutschland mit Mitgefühl. Wir verstehen — und wir sind für Sie da.",
+    "availability": "Rund um die Uhr erreichbar — Jemand ist immer für Sie da",
+    "callNow": "Rufen Sie uns jetzt an, Tag oder Nacht",
+    "ctaSecondary": "Oder senden Sie uns eine Nachricht"
+  },
+  "serviceOverview": {
+    "title": "Umfassende Bestattungsdienstleistungen",
+    "subtitle": "Wie wir helfen können",
+    "emotionalLine": "In dieser schweren Zeit kümmern wir uns um die Details, damit Sie sich auf das Wesentliche konzentrieren können.",
+    "description": "Wir bieten umfassende Bestattungsdienstleistungen in ganz Deutschland, erbracht mit Würde, Respekt und Liebe zum Detail.",
+    "viewAll": "Alle Leistungen ansehen",
+    "services": {
+      "burial": {
+        "title": "Beerdigung",
+        "description": "Traditionelle Bestattungsdienste mit würdevollen Zeremonien, von der Vorbereitung bis zur letzten Ruhestätte."
+      },
+      "cremation": {
+        "title": "Einäscherung",
+        "description": "Respektvolle Kremationsdienste mit flexiblen Gedenkoptionen, einschließlich Urnenauswahl und Aschenverstreuung."
+      },
+      "planning": {
+        "title": "Trauerfeier-Planung",
+        "description": "Umfassende Unterstützung bei der Trauerfeierplanung, um einen bedeutungsvollen Abschied zu gestalten."
+      },
+      "documentation": {
+        "title": "Dokumentation & rechtliche Unterstützung",
+        "description": "Vollständige Unterstützung bei Sterbeurkunden, rechtlichen Dokumenten und administrativen Anforderungen."
+      },
+      "transportation": {
+        "title": "Überführungsdienste",
+        "description": "Würdevolle Überführungsdienste, einschließlich lokaler und internationaler Rückführungsarrangements."
+      },
+      "memorial": {
+        "title": "Gedenkfeiern",
+        "description": "Persönliche Gedenkzeremonien zur Würdigung des Lebens, die bedeutungsvolle Momente für Familie und Freunde schaffen."
+      }
+    }
+  },
+  "trust": {
+    "title": "Warum Familien uns vertrauen",
+    "subtitle": "Unser Versprechen an Sie",
+    "reassurance": "Wir wissen, dass dies einer der schwersten Momente Ihres Lebens ist. Deshalb behandeln wir jede Familie mit der gleichen Fürsorge, die wir uns für unsere eigene wünschen würden.",
+    "items": {
+      "available": {
+        "title": "Rund um die Uhr erreichbar",
+        "description": "Wir sind immer für Sie da, Tag und Nacht, und bieten sofortige Unterstützung und Beratung."
+      },
+      "experienced": {
+        "title": "Erfahrene Fachleute",
+        "description": "Unser zertifiziertes Team bringt jahrzehntelange Erfahrung in einfühlsamer Trauerbegleitung mit."
+      },
+      "transparent": {
+        "title": "Transparenter Prozess",
+        "description": "Klare Preise und ehrliche Kommunikation, damit Sie immer wissen, was Sie erwartet."
+      },
+      "personalized": {
+        "title": "Personalisierte Dienste",
+        "description": "Jeder Abschied ist einzigartig. Wir passen unsere Dienste an die Wünsche Ihres Angehörigen an."
+      }
+    }
+  },
+  "aboutPreview": {
+    "title": "Einfühlsame Unterstützung, wenn Sie sie am meisten brauchen",
+    "subtitle": "Über RuheWeg",
+    "description1": "Bei RuheWeg verstehen wir, wie schwer ein Verlust sein kann. Unsere Mission ist es, Familien mit Würde, Respekt und professioneller Begleitung auf jedem Schritt des Weges zu unterstützen.",
+    "description2": "Mit jahrelanger Erfahrung und dem Engagement für einfühlsame Betreuung stellen wir sicher, dass jeder Abschied so einzigartig und bedeutungsvoll ist wie das Leben, das er würdigt.",
+    "badges": {
+      "certified": "Zertifizierte Fachleute",
+      "compassionate": "Einfühlsamer Ansatz",
+      "experienced": "Jahrelange Erfahrung",
+      "dedicated": "Engagierte Betreuung"
+    },
+    "learnMore": "Mehr über uns erfahren"
+  },
+  "location": {
+    "title": "Für Familien in ganz Deutschland",
+    "description": "Wir bieten Bestattungsdienstleistungen in ganz Deutschland und unterstützen Familien mit respektvoller und professioneller Betreuung, wo auch immer Sie sich befinden.",
+    "regions": {
+      "berlin": "Berlin",
+      "munich": "München",
+      "hamburg": "Hamburg",
+      "frankfurt": "Frankfurt",
+      "nationwide": "& Bundesweit"
+    }
+  },
+  "contactCta": {
+    "title": "Wir sind für Sie da",
+    "description": "Kontaktieren Sie uns jederzeit — wir bieten einfühlsame Unterstützung und Beratung in dieser schweren Zeit.",
+    "available": "Rund um die Uhr erreichbar, 7 Tage die Woche",
+    "phone": {
+      "label": "Rufen Sie uns direkt an"
+    },
+    "button": "Nachricht senden"
+  },
+  "guidance": {
+    "title": "Wie wir Ihnen helfen können",
+    "subtitle": "Beratung & Unterstützung",
+    "cards": {
+      "firstSteps": {
+        "title": "Wenn jemand stirbt",
+        "button": "Mehr erfahren",
+        "link": "/services"
+      },
+      "planningFarewell": {
+        "title": "Abschied planen",
+        "button": "Mehr erfahren",
+        "link": "/services"
+      },
+      "griefSupport": {
+        "title": "Hilfe bei der Trauer",
+        "button": "Mehr erfahren",
+        "link": "/about"
+      }
+    }
+  },
+  "features": {
+    "personal": {
+      "title": "Persönlicher Service",
+      "description": "Wir hören aufmerksam zu, erklären alle Optionen und unterstützen Sie bei der Gestaltung eines Abschieds, der zu Ihnen und Ihren Lieben passt."
+    },
+    "continuity": {
+      "title": "Kontinuität der Betreuung",
+      "description": "Sie werden nach Möglichkeit während der gesamten Planung und bei der Trauerfeier von demselben Trauerbegleiter betreut."
+    },
+    "experience": {
+      "title": "Jahrelange Erfahrung",
+      "description": "Mit langjähriger Erfahrung kümmert sich unser freundliches, professionelles und mitfühlendes Team wirklich um jede Familie."
+    },
+    "transparent": {
+      "title": "Transparenter Ansatz",
+      "description": "Unser Team hört zu und erklärt Ihre Optionen einfach und ehrlich, damit Sie sich unterstützt und in Kontrolle fühlen."
+    }
+  },
+  "servicesPage": {
+    "title": "Einfühlsame Begleitung für Lebensübergänge",
+    "subtitle": "Unsere Leistungen",
+    "services": {
+      "nonConfessional": {
+        "title": "Nicht-konfessionelle Abschiedsfeier",
+        "description": "Wir bieten persönliche und bedeutungsvolle Abschiedsfeiern, die frei von religiösen Bindungen sind. Jede Zeremonie wird individuell gestaltet, um das Leben und die Persönlichkeit des Verstorbenen zu würdigen."
+      },
+      "ceremony": {
+        "title": "Ablauf der Abschiedszeremonie",
+        "description": "Unser sorgfältig geplanter Ablauf führt Sie durch jeden Schritt der Zeremonie. Von der Begrüßung über persönliche Worte bis zum letzten Abschied – wir sorgen für einen würdevollen und bewegenden Rahmen."
+      },
+      "venueOrganization": {
+        "title": "Organisation der Räumlichkeiten",
+        "description": "Wir übernehmen die komplette Organisation der Trauerfeier-Räumlichkeiten. Ob in einer Kapelle, im Freien oder an einem besonderen Ort – wir kümmern uns um alle Details der Dekoration und Gestaltung."
+      },
+      "personalRitual": {
+        "title": "Persönliches Zeremoniell-Ritual",
+        "description": "Erstellen Sie ein einzigartiges Ritual, das die Persönlichkeit und die Wünsche des Verstorbenen widerspiegelt. Wir helfen Ihnen, bedeutungsvolle Elemente zu integrieren, die Trost und Erinnerung schaffen."
+      },
+      "urnService": {
+        "title": "Erweiterte Urnenbeisetzung",
+        "description": "Unser umfassender Service für Urnenbeisetzungen umfasst die würdevolle Gestaltung der Zeremonie, die Auswahl des passenden Ortes und die Begleitung der Familie durch den gesamten Prozess."
+      }
+    },
+    "cta": {
+      "title": "Lassen Sie uns gemeinsam planen",
+      "description": "Wir sind hier, um Sie zu unterstützen und eine würdevolle Abschiedszeremonie zu gestalten.",
+      "button": "Kontakt aufnehmen"
+    }
+  },
+  "howWeHelp": {
+    "title": "Wie RuheWeg Sie unterstützt",
+    "subtitle": "Unser Ansatz",
+    "steps": {
+      "simple": {
+        "label": "Schritt 1",
+        "title": "Einfacher Prozess",
+        "description": "Wir vereinfachen den Planungsprozess für einen würdevollen Abschied, damit Sie sich auf das Wesentliche konzentrieren können."
+      },
+      "personal": {
+        "label": "Schritt 2",
+        "title": "Persönliche Beratung",
+        "description": "In einem vertraulichen Gespräch erfassen wir Ihre Wünsche und die Besonderheiten des Verstorbenen."
+      },
+      "support": {
+        "label": "Schritt 3",
+        "title": "Unterstützende Begleitung",
+        "description": "Wir begleiten Sie mit einfühlsamer Unterstützung durch die gesamte Zeit der Trauer und darüber hinaus."
+      }
+    }
+  },
+  "cta": {
+    "title": "Finden Sie heute Trost und Begleitung",
+    "subtitle": "Kontaktieren Sie uns",
+    "description": "Nehmen Sie Kontakt auf für einfühlsame Unterstützung bei der Planung einer persönlichen Abschiedszeremonie.",
+    "button": "Mehr Informationen"
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Wir sind für Sie da – 24 Stunden, 7 Tage die Woche",
+    "phone": "Telefon",
+    "email": "E-Mail",
+    "address": "Adresse",
+    "addressValue": "Friedhofstraße 12\n12345 Musterstadt",
+    "emergencyLine": "Notruf rund um die Uhr erreichbar",
+    "form": {
+      "name": "Ihr Name",
+      "email": "Ihre E-Mail",
+      "message": "Ihre Nachricht",
+      "submit": "Nachricht senden"
+    }
+  },
+  "aboutPage": {
+    "title": "Über uns",
+    "subtitle": "Mit Mitgefühl und Verständnis begleiten wir Familien durch die schwierigsten Momente des Lebens und gestalten bedeutungsvolle Abschiede, die jedes einzigartige Leben würdigen.",
+    "heroLabel": "Wer wir sind",
+    "description": "Mit Würde und Mitgefühl begleiten wir Sie",
+    "intro": {
+      "subtitle": "Unsere Geschichte",
+      "title": "Einfühlsame Begleitung, wenn Sie sie am meisten brauchen",
+      "description1": "Bei RuheWeg glauben wir, dass jeder Mensch einen Abschied verdient, der so einzigartig ist wie das Leben, das er gelebt hat. Unser engagiertes Team vereint jahrelange Erfahrung, professionelle Ausbildung und echtes Mitgefühl, um Familien in ihren schwierigsten Zeiten zu unterstützen.",
+      "description2": "Wir sind stolz darauf, personalisierte Dienstleistungen anzubieten, die Ihre Wünsche widerspiegeln und das Andenken Ihres geliebten Menschen ehren. Von der ersten Beratung bis zum letzten Abschied begleiten wir Sie mit Geduld, Verständnis und unerschütterlicher Unterstützung.",
+      "available": "Rund um die Uhr erreichbar"
+    },
+    "journey": {
+      "subtitle": "Mein Weg",
+      "title": "Auf dem Weg zu liebevoller Fürsorge",
+      "description": "Als zertifizierter freiberuflicher Trauerredner, ausgebildet an der renommierten Ceremonies Academy in Zürich, bin ich spezialisiert auf die Gestaltung bedeutungsvoller nicht-konfessioneller Abschiede. Meine über 40-jährige Erfahrung als Bäcker und Konditor lehrte mich die Bedeutung von Handwerkskunst, Liebe zum Detail und dem Dienst an anderen.",
+      "description2": "Der plötzliche Verlust meines Bruders veränderte mein Verständnis von Trauer und inspirierte mich, mein Leben der Begleitung anderer auf ihrem Abschiedsweg mit Mitgefühl, Würde und Verständnis zu widmen.",
+      "cert1": "Zertifizierter Trauerredner",
+      "cert2": "Ceremonies Academy Zürich"
+    },
+    "values": {
+      "subtitle": "Was uns leitet",
+      "title": "Unsere Grundwerte",
+      "compassion": "Mitgefühl",
+      "compassionDesc": "Wir begegnen jeder Familie mit echtem Einfühlungsvermögen und Verständnis.",
+      "dignity": "Würde",
+      "dignityDesc": "Wir stellen sicher, dass jeder Abschied das einzigartige Leben würdigt.",
+      "trust": "Vertrauen",
+      "trustDesc": "Wir bauen dauerhafte Beziehungen durch Transparenz und Zuverlässigkeit auf.",
+      "professionalism": "Professionalität",
+      "professionalismDesc": "Wir bieten außergewöhnlichen Service mit Sorgfalt und Liebe zum Detail."
+    },
+    "mission": {
+      "title": "Unsere Mission",
+      "quote": "Jeder Mensch verdient einen Abschied, der seine einzigartige Lebensreise würdigt und den Hinterbliebenen Trost, Heilung und Abschluss bringt. Wir sind hier, um das möglich zu machen."
+    },
+    "cta": {
+      "title": "Lassen Sie uns Ihnen helfen",
+      "description": "Wir sind hier, um Sie in dieser schweren Zeit zu unterstützen. Nehmen Sie Kontakt auf für ein einfühlsames Gespräch darüber, wie wir helfen können.",
+      "button": "Kontaktieren Sie uns heute"
+    }
+  },
+  "contactPage": {
+    "title": "Kontakt",
+    "subtitle": "Wir sind für Sie da – 24 Stunden, 7 Tage die Woche",
+    "emergency": "Notruf rund um die Uhr:",
+    "info": {
+      "title": "Kontaktinformationen",
+      "description": "Wir sind jederzeit für Sie erreichbar. Zögern Sie nicht, uns zu kontaktieren – wir sind hier, um Ihnen zu helfen.",
+      "phone": "Telefon",
+      "email": "E-Mail",
+      "address": "Adresse",
+      "addressValue": "Friedhofstraße 12\n12345 Musterstadt"
+    },
+    "form": {
+      "title": "Nachricht senden",
+      "name": "Ihr Name",
+      "email": "Ihre E-Mail",
+      "phone": "Ihre Telefonnummer",
+      "message": "Ihre Nachricht",
+      "submit": "Nachricht senden"
+    }
+  },
+  "journey": {
+    "subtitle": "Mein Weg",
+    "title": "Auf dem Weg zu liebevoller Fürsorge",
+    "description": "Als zertifizierter freiberuflicher Trauerredner, ausgebildet an der Ceremonies Academy in Zürich, bin ich spezialisiert auf nicht-konfessionelle Abschiede. Mit über 40 Jahren Erfahrung als Bäcker und Konditor widme ich mich nun der Gestaltung personalisierter Trauerfeiern. Meine eigene Erfahrung mit dem plötzlichen Verlust meines Bruders treibt mein Engagement an, anderen beim Abschied mit Mitgefühl und Verständnis zu helfen."
+  },
+  "footer": {
+    "copyright": "© 2026 RuheWeg. Alle Rechte vorbehalten.",
+    "privacy": "Datenschutz",
+    "imprint": "Impressum",
+    "terms": "Nutzungsbedingungen",
+    "tagline": "Würdevolle Bestattungsdienstleistungen mit Mitgefühl und Fürsorge. Wir unterstützen Familien in ganz Deutschland in den schwierigsten Momenten des Lebens.",
+    "available247": "Rund um die Uhr erreichbar",
+    "servicesTitle": "Unsere Leistungen",
+    "services": {
+      "burial": "Beerdigung",
+      "cremation": "Einäscherung",
+      "planning": "Trauerfeier-Planung",
+      "memorial": "Gedenkfeiern"
+    },
+    "quickLinks": "Schnelllinks"
+  },
+  "languageSwitch": {
+    "label": "Sprache"
+  },
+  "faq": {
+    "subtitle": "Häufige Fragen",
+    "title": "Häufig gestellte Fragen",
+    "description": "Wir verstehen, dass Sie viele Fragen haben. Hier finden Sie Antworten auf einige der häufigsten.",
+    "questions": {
+      "q1": {
+        "question": "Was sollte ich unmittelbar nach dem Tod eines Angehörigen tun?",
+        "answer": "Kontaktieren Sie zunächst bei Bedarf den Notarzt, dann rufen Sie uns an. Wir sind rund um die Uhr erreichbar und begleiten Sie durch jeden Schritt – von der Sterbeurkunde über die Überführung bis zur Trauerfeierplanung."
+      },
+      "q2": {
+        "question": "Wie viel kosten Bestattungsdienstleistungen typischerweise?",
+        "answer": "Die Kosten variieren je nach Art der Bestattung und persönlichen Wünschen. Wir bieten transparente Preise und erstellen während unserer Beratung einen detaillierten Kostenvoranschlag. Flexible Zahlungsoptionen sind möglich."
+      },
+      "q3": {
+        "question": "Was ist der Unterschied zwischen Beerdigung und Einäscherung?",
+        "answer": "Bei einer Beerdigung wird der Körper in einem Sarg auf einem Friedhof beigesetzt. Bei der Einäscherung wird der Körper zu Asche verbrannt, die in einer Urne aufbewahrt, verstreut oder in einem Kolumbarium beigesetzt werden kann."
+      },
+      "q4": {
+        "question": "Wie lange dauert es, eine Beerdigung zu organisieren?",
+        "answer": "Typischerweise kann eine Beerdigung innerhalb von 3-7 Tagen organisiert werden. Wir können jedoch verschiedene Zeitrahmen je nach religiösen Anforderungen oder familiären Bedürfnissen berücksichtigen."
+      },
+      "q5": {
+        "question": "Können wir die Trauerfeier personalisieren?",
+        "answer": "Absolut. Wir ermutigen zur Personalisierung, um das einzigartige Leben Ihres Angehörigen zu würdigen. Dies kann Musikauswahl, Fotoausstellungen, Lesungen, besondere Rituale oder thematische Dekorationen umfassen."
+      },
+      "q6": {
+        "question": "Bieten Sie Vorsorge-Dienstleistungen an?",
+        "answer": "Ja, Vorsorgeplanung ermöglicht es Ihnen, Entscheidungen über Ihre eigene Bestattung im Voraus zu treffen, um Ihre Familie später zu entlasten. Es hilft auch, aktuelle Preise zu sichern und Ihre Wünsche zu dokumentieren."
+      }
+    }
+  },
+  "stats": {
+    "subtitle": "Unsere Wirkung",
+    "title": "Vertraut von Familien in ganz Deutschland",
+    "items": {
+      "families": {
+        "value": "500+",
+        "label": "Betreute Familien"
+      },
+      "years": {
+        "value": "15+",
+        "label": "Jahre Erfahrung"
+      },
+      "available": {
+        "value": "24/7",
+        "label": "Immer erreichbar"
+      },
+      "satisfaction": {
+        "value": "98%",
+        "label": "Familienzufriedenheit"
+      }
+    }
+  },
+  "testimonials": {
+    "subtitle": "Familienerfahrungen",
+    "title": "Was Familien über uns sagen",
+    "items": {
+      "testimonial1": {
+        "name": "Michael S.",
+        "location": "Berlin, Deutschland",
+        "quote": "In der schwierigsten Zeit unseres Lebens war RuheWeg mit unglaublichem Mitgefühl für uns da. Sie haben alles mit solcher Würde und Fürsorge gehandhabt. Wir hätten es ohne sie nicht geschafft."
+      },
+      "testimonial2": {
+        "name": "Anna K.",
+        "location": "München, Deutschland",
+        "quote": "Das Team von RuheWeg hat den Abschied meiner Mutter wirklich besonders gemacht. Sie haben auf unsere Wünsche gehört und eine wunderschöne Zeremonie gestaltet. Für immer dankbar."
+      },
+      "testimonial3": {
+        "name": "Thomas M.",
+        "location": "Hamburg, Deutschland",
+        "quote": "Professionell, einfühlsam und immer erreichbar, wenn wir sie brauchten. RuheWeg hat uns mit Geduld und Verständnis durch jeden Schritt begleitet. Ich empfehle ihre Dienste sehr."
+      }
+    }
+  },
+  "process": {
+    "subtitle": "So funktioniert es",
+    "title": "Unser einfacher Prozess",
+    "description": "Wir haben unseren Prozess so stressfrei wie möglich gestaltet, damit Sie sich auf das Wesentliche konzentrieren können.",
+    "steps": {
+      "step1": {
+        "title": "Erster Kontakt",
+        "description": "Rufen Sie uns jederzeit an. Wir hören zu, beantworten Ihre Fragen und vereinbaren ein erstes Treffen."
+      },
+      "step2": {
+        "title": "Persönliche Beratung",
+        "description": "Wir treffen uns, um Ihre Wünsche zu verstehen, Optionen zu besprechen und einen Plan zu erstellen."
+      },
+      "step3": {
+        "title": "Wir kümmern uns um alles",
+        "description": "Von der Dokumentation bis zur Logistik – wir übernehmen alle Details, damit Sie sich keine Sorgen machen müssen."
+      },
+      "step4": {
+        "title": "Würdevoller Abschied",
+        "description": "Eine würdevolle Zeremonie, die das Leben Ihres Angehörigen feiert und der Familie Abschluss bietet."
+      }
+    }
+  },
+  "floatingCta": {
+    "title": "Brauchen Sie sofortige Hilfe?",
+    "message": "Wir sind rund um die Uhr erreichbar. Rufen Sie uns jetzt an.",
+    "ariaLabel": "Rufen Sie uns für sofortige Unterstützung an"
+  }
+}
