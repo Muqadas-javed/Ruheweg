@@ -39,7 +39,7 @@ export default function ContactCTA() {
                 </div>
                 <div>
                   <p className="text-stone-400 text-sm">{t('phone.label')}</p>
-                  <p className="text-white text-xl font-semibold">+49 123 456 789 00</p>
+                  <p className="text-white text-xl font-semibold">+41 79 906 36 86</p>
                 </div>
               </a>
 

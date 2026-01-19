@@ -55,7 +55,7 @@ export default function ContactSection() {
                 {t('phone')}
               </h3>
               <a href="tel:+4912345678900" className="text-stone-600 hover:text-amber-600 transition-colors text-lg">
-                +49 123 456 789 00
+                +41 79 906 36 86
               </a>
               <p className="text-amber-700 text-sm mt-2 font-medium">
                 {t('emergencyLine')}

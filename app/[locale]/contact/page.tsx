@@ -81,7 +81,7 @@ function ContactPageContent() {
               href="tel:+4912345678900" 
               className="text-2xl sm:text-3xl font-bold hover:scale-105 transition-transform inline-flex items-center gap-2 bg-white/10 px-6 py-2 rounded-full backdrop-blur-sm"
             >
-              +49 123 456 789 00
+              +41 79 906 36 86
             </a>
           </div>
         </div>
@@ -118,7 +118,7 @@ function ContactPageContent() {
                   <div className="flex-1">
                     <h3 className="font-semibold text-stone-800 mb-1 text-lg">{t('info.phone')}</h3>
                     <a href="tel:+4912345678900" className="text-xl text-teal-600 font-medium hover:text-teal-700 transition-colors">
-                      +49 123 456 789 00
+                      +41 79 906 36 86
                     </a>
                     <p className="text-sm text-stone-500 mt-1">Available 24/7</p>
                   </div>
@@ -133,8 +133,8 @@ function ContactPageContent() {
                   </div>
                   <div className="flex-1">
                     <h3 className="font-semibold text-stone-800 mb-1 text-lg">{t('info.email')}</h3>
-                    <a href="mailto:info@ruheweg.de" className="text-xl text-amber-600 font-medium hover:text-amber-700 transition-colors">
-                      info@ruheweg.de
+                    <a href="mailto:hanspeter.berger123@gmail.com" className="text-xl text-amber-600 font-medium hover:text-amber-700 transition-colors">
+                      hanspeter.berger123@gmail.com
                     </a>
                     <p className="text-sm text-stone-500 mt-1">We respond within 1 hour</p>
                   </div>
@@ -217,10 +217,10 @@ function ContactPageContent() {
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
                     </svg>
                   </div>
-                  <p className="text-stone-600 font-medium">Friedhofstraße 12</p>
-                  <p className="text-stone-500">12345 Musterstadt, Germany</p>
+                  <p className="text-stone-600 font-medium"></p>
+                  <p className="text-stone-500">Jurastrasse 1, 5507 Mellingen, Switzerland</p>
                   <a 
-                    href="https://maps.google.com" 
+                    href="https://www.google.com/maps/search/?api=1&query=Jurastrasse+1,+5507+Mellingen,+Switzerland" 
                     target="_blank" 
                     rel="noopener noreferrer"
                     className="inline-flex items-center gap-2 mt-4 px-6 py-3 bg-teal-600 text-white rounded-full hover:bg-teal-700 transition-colors font-medium"

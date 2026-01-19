@@ -213,7 +213,7 @@
     "phone": "Phone",
     "email": "Email",
     "address": "Address",
-    "addressValue": "Friedhofstraße 12\n12345 Musterstadt, Germany",
+    "addressValue": "\nJurastrasse 1, 5507 Mellingen, Switzerland, Germany",
     "emergencyLine": "Emergency line available 24/7",
     "form": {
       "name": "Your Name",
@@ -274,7 +274,7 @@
       "phone": "Phone",
       "email": "Email",
       "address": "Address",
-      "addressValue": "Friedhofstraße 12\n12345 Musterstadt, Germany"
+      "addressValue": "\nJurastrasse 1, 5507 Mellingen, Switzerland, Germany"
     },
     "form": {
       "title": "Send a Message",

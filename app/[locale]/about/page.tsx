@@ -124,7 +124,7 @@ function AboutPageContent() {
                   </div>
                   <div>
                     <p className="text-sm text-stone-500">{t('intro.available')}</p>
-                    <p className="text-lg font-semibold text-stone-800">+49 123 456 789 00</p>
+                    <p className="text-lg font-semibold text-stone-800">+41 79 906 36 86</p>
                   </div>
                 </div>
               </div>

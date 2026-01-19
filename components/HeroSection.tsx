@@ -46,7 +46,7 @@ export default function HeroSection() {
             </span>
             <span className="flex flex-col items-start">
               <span className="text-teal-100 text-sm">{t('callNow')}</span>
-              <span className="font-semibold">+49 123 456 789 00</span>
+              <span className="font-semibold">+41 79 906 36 86</span>
             </span>
           </a>
         </div>

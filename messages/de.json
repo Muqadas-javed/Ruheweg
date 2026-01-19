@@ -213,7 +213,7 @@
     "phone": "Telefon",
     "email": "E-Mail",
     "address": "Adresse",
-    "addressValue": "Friedhofstraße 12\n12345 Musterstadt",
+    "addressValue": "\nJurastrasse 1, 5507 Mellingen, Switzerland",
     "emergencyLine": "Notruf rund um die Uhr erreichbar",
     "form": {
       "name": "Ihr Name",
@@ -274,7 +274,7 @@
       "phone": "Telefon",
       "email": "E-Mail",
       "address": "Adresse",
-      "addressValue": "Friedhofstraße 12\n12345 Musterstadt"
+      "addressValue": "\nJurastrasse 1, 5507 Mellingen, Switzerland"
     },
     "form": {
       "title": "Nachricht senden",

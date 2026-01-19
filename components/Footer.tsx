@@ -89,13 +89,13 @@ export default function Footer() {
               <p>
                 <span className="text-stone-500">{tContact('phone')}:</span><br />
                 <a href="tel:+4912345678900" className="hover:text-amber-500 transition-colors text-lg font-medium text-white">
-                  +49 123 456 789 00
+                  +41 79 906 36 86
                 </a>
               </p>
               <p>
                 <span className="text-stone-500">{tContact('email')}:</span><br />
-                <a href="mailto:info@ruheweg.de" className="hover:text-amber-500 transition-colors">
-                  info@ruheweg.de
+                <a href="mailto:hanspeter.berger123@gmail.com" className="hover:text-amber-500 transition-colors">
+                  hanspeter.berger123@gmail.com
                 </a>
               </p>
               <p className="text-amber-500 font-medium mt-4">

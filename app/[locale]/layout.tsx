@@ -85,10 +85,10 @@ export default async function LocaleLayout({
               "description": "Professional and compassionate funeral services in Germany",
               "url": "https://ruheweg.de",
               "telephone": "+49-123-456-789-00",
-              "email": "info@ruheweg.de",
+              "email": "hanspeter.berger123@gmail.com",
               "address": {
                 "@type": "PostalAddress",
-                "streetAddress": "Friedhofstraße 12",
+                "streetAddress": "",
                 "addressLocality": "Musterstadt",
                 "postalCode": "12345",
                 "addressCountry": "DE"

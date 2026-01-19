@@ -38,7 +38,7 @@ export default function FloatingCTA() {
           className="flex items-center gap-2 text-teal-600 font-semibold hover:text-teal-700"
         >
           <PhoneIcon className="w-4 h-4" />
-          +49 123 456 789 00
+          +41 79 906 36 86
         </a>
       </div>
 
