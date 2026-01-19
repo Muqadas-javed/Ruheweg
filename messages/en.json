@@ -7,7 +7,7 @@
   "header": {
     "home": "Home",
     "services": "Services",
-    "about": "About Us",
+    "about": "About Me",
     "contact": "Contact"
   },
   "home": {
@@ -15,17 +15,17 @@
   },
   "hero": {
     "title": "You Don't Have to Face This Alone",
-    "subtitle": "In moments of loss, we are here to carry some of the burden. With gentle guidance and heartfelt care, we help you honor your loved one's memory.",
-    "reassurance": "Serving families across Switzerland with compassion since day one. We understand — and we're here for you.",
-    "availability": "Available 24/7 — Someone is always here when you need us",
-    "callNow": "Call us now, day or night",
-    "ctaSecondary": "Or send us a message"
+    "subtitle": "In moments of loss, I am here to carry some of the burden. With gentle guidance and heartfelt care, I help you honor your loved one's memory.",
+    "reassurance": "Serving families across Switzerland with compassion since day one. I understand  and I'm here for you.",
+    "availability": "Available 24/7  I am always here when you need me",
+    "callNow": "Call me now, day or night",
+    "ctaSecondary": "Or send me a message"
   },
   "serviceOverview": {
     "title": "Complete Funeral Services",
-    "subtitle": "How We Can Help",
-    "emotionalLine": "During this difficult time, let us handle the details so you can focus on what matters most.",
-    "description": "We provide comprehensive funeral services throughout Switzerland, delivered with dignity, respect, and attention to every detail.",
+    "subtitle": "How I Can Help",
+    "emotionalLine": "During this difficult time, let me handle the details so you can focus on what matters most.",
+    "description": "I provide comprehensive funeral services throughout Switzerland, delivered with dignity, respect, and attention to every detail.",
     "viewAll": "View All Services",
     "services": {
       "burial": {
@@ -55,17 +55,17 @@
     }
   },
   "trust": {
-    "title": "Why Families Trust Us",
-    "subtitle": "Our Promise to You",
-    "reassurance": "We know this is one of the hardest moments of your life. That's why we treat every family with the same care we would want for our own.",
+    "title": "Why Families Trust Me",
+    "subtitle": "My Promise to You",
+    "reassurance": "I know this is one of the hardest moments of your life. That's why I treat every family with the same care I would want for my own.",
     "items": {
       "available": {
         "title": "Available 24/7",
-        "description": "We're here whenever you need us, day or night, providing immediate support and guidance."
+        "description": "I'm here whenever you need me, day or night, providing immediate support and guidance."
       },
       "experienced": {
-        "title": "Experienced Professionals",
-        "description": "Our certified team brings decades of experience in compassionate funeral care."
+        "title": "Experienced Professional",
+        "description": "As a certified funeral speaker, I bring decades of experience in compassionate funeral care."
       },
       "transparent": {
         "title": "Transparent Process",
@@ -73,26 +73,26 @@
       },
       "personalized": {
         "title": "Personalized Services",
-        "description": "Every farewell is unique. We tailor our services to honor your loved one's life and wishes."
+        "description": "Every farewell is unique. I tailor my services to honor your loved one's life and wishes."
       }
     }
   },
   "aboutPreview": {
     "title": "Compassionate Support When You Need It Most",
     "subtitle": "About RuheWeg",
-    "description1": "At RuheWeg, we understand how difficult loss can be. Our mission is to support families with dignity, respect, and professional guidance at every step of the journey.",
-    "description2": "With years of experience and a commitment to compassionate care, we ensure that every farewell is as unique and meaningful as the life it celebrates.",
+    "description1": "At RuheWeg, I understand how difficult loss can be. My mission is to support families with dignity, respect, and professional guidance at every step of the journey.",
+    "description2": "With years of experience and a commitment to compassionate care, I ensure that every farewell is as unique and meaningful as the life it celebrates.",
     "badges": {
-      "certified": "Certified Professionals",
+      "certified": "Certified Professional",
       "compassionate": "Compassionate Approach",
       "experienced": "Years of Experience",
       "dedicated": "Dedicated Support"
     },
-    "learnMore": "Learn More About Us"
+    "learnMore": "Learn More About Me"
   },
   "location": {
     "title": "Serving Families Across Switzerland",
-    "description": "We provide funeral services throughout Switzerland, supporting families with respectful and professional care wherever you are located.",
+    "description": "I provide funeral services throughout Switzerland, supporting families with respectful and professional care wherever you are located.",
     "regions": {
       "zurich": "Zürich",
       "baden": "Baden",
@@ -103,16 +103,16 @@
     }
   },
   "contactCta": {
-    "title": "We're Here to Help",
-    "description": "Contact us anytime — we are here to provide compassionate support and guidance during this difficult time.",
+    "title": "I'm Here to Help",
+    "description": "Contact me anytime  I am here to provide compassionate support and guidance during this difficult time.",
     "available": "Available 24 hours, 7 days a week",
     "phone": {
-      "label": "Call us directly"
+      "label": "Call me directly"
     },
     "button": "Send a Message"
   },
   "guidance": {
-    "title": "How We Can Help",
+    "title": "How I Can Help",
     "subtitle": "Guidance & Support",
     "cards": {
       "firstSteps": {
@@ -135,82 +135,82 @@
   "features": {
     "personal": {
       "title": "Personal Service",
-      "description": "We listen carefully, explain all options and support you to create a farewell tailored to you and your loved ones."
+      "description": "I listen carefully, explain all options and support you to create a farewell tailored to you and your loved ones."
     },
     "continuity": {
       "title": "Continuity of Care",
-      "description": "You'll be looked after by the same funeral director throughout the arrangements and at the funeral whenever possible."
+      "description": "You'll be looked after by me throughout the arrangements and at the funeral  one dedicated person from start to finish."
     },
     "experience": {
       "title": "Decades of Experience",
-      "description": "With years of experience, our kind, professional and compassionate team truly cares about every family we serve."
+      "description": "With years of experience, I bring professionalism and compassion to every family I serve."
     },
     "transparent": {
       "title": "Transparent Approach",
-      "description": "Our team listens and carefully explains your options simply and honestly, making sure you feel supported and in control."
+      "description": "I listen and carefully explain your options simply and honestly, making sure you feel supported and in control."
     }
   },
   "servicesPage": {
     "title": "Compassionate Services for Life Transitions",
-    "subtitle": "Our Services",
+    "subtitle": "My Services",
     "services": {
       "nonConfessional": {
         "title": "Non-Confessional Farewell Celebration",
-        "description": "We offer personal and meaningful farewell celebrations that are free from religious affiliations. Each ceremony is individually designed to honor the life and personality of the deceased."
+        "description": "I offer personal and meaningful farewell celebrations that are free from religious affiliations. Each ceremony is individually designed to honor the life and personality of the deceased."
       },
       "ceremony": {
         "title": "Farewell Ceremony Procedure",
-        "description": "Our carefully planned procedure guides you through every step of the ceremony. From the welcome to personal words to the final farewell – we ensure a dignified and moving framework."
+        "description": "My carefully planned procedure guides you through every step of the ceremony. From the welcome to personal words to the final farewell  I ensure a dignified and moving framework."
       },
       "venueOrganization": {
         "title": "Venue Organization",
-        "description": "We handle the complete organization of the memorial service venues. Whether in a chapel, outdoors, or at a special location – we take care of all details of decoration and design."
+        "description": "I handle the complete organization of the memorial service venues. Whether in a chapel, outdoors, or at a special location  I take care of all details of decoration and design."
       },
       "personalRitual": {
         "title": "Personal Ceremonial Ritual",
-        "description": "Create a unique ritual that reflects the personality and wishes of the deceased. We help you integrate meaningful elements that create comfort and remembrance."
+        "description": "Create a unique ritual that reflects the personality and wishes of the deceased. I help you integrate meaningful elements that create comfort and remembrance."
       },
       "urnService": {
         "title": "Extended Urn Burial Service",
-        "description": "Our comprehensive service for urn burials includes the dignified design of the ceremony, the selection of the appropriate location, and accompanying the family through the entire process."
+        "description": "My comprehensive service for urn burials includes the dignified design of the ceremony, the selection of the appropriate location, and accompanying the family through the entire process."
       }
     },
     "cta": {
       "title": "Let's Plan Together",
-      "description": "We are here to support you and create a dignified farewell ceremony.",
-      "button": "Contact Us"
+      "description": "I am here to support you and create a dignified farewell ceremony.",
+      "button": "Contact Me"
     }
   },
   "howWeHelp": {
     "title": "How RuheWeg Supports You",
-    "subtitle": "Our Approach",
+    "subtitle": "My Approach",
     "steps": {
       "simple": {
         "label": "Step 1",
         "title": "Simple Process",
-        "description": "We simplify the planning process for a dignified farewell so you can focus on what matters most."
+        "description": "I simplify the planning process for a dignified farewell so you can focus on what matters most."
       },
       "personal": {
         "label": "Step 2",
         "title": "Personal Consultation",
-        "description": "In a confidential conversation, we capture your wishes and the special characteristics of the deceased."
+        "description": "In a confidential conversation, I capture your wishes and the special characteristics of the deceased."
       },
       "support": {
         "label": "Step 3",
         "title": "Supportive Guidance",
-        "description": "We accompany you with empathetic support throughout the time of mourning and beyond."
+        "description": "I accompany you with empathetic support throughout the time of mourning and beyond."
       }
     }
   },
   "cta": {
     "title": "Find Comfort and Guidance Today",
-    "subtitle": "Contact Us",
+    "subtitle": "Contact Me",
     "description": "Reach out for compassionate support in planning a personalized farewell ceremony.",
     "button": "More Information"
   },
   "contact": {
     "title": "Contact",
-    "subtitle": "We are here for you – 24 hours a day, 7 days a week",
+    "subtitle": "I am here for you  24 hours a day, 7 days a week",
     "phone": "Phone",
     "email": "Email",
     "address": "Address",
@@ -224,15 +224,15 @@
     }
   },
   "aboutPage": {
-    "title": "About Us",
-    "subtitle": "With compassion and understanding, we guide families through life's most difficult moments, creating meaningful farewells that honor every unique life.",
-    "heroLabel": "Who We Are",
-    "description": "With dignity and compassion, we accompany you",
+    "title": "About Me",
+    "subtitle": "With compassion and understanding, I guide families through life's most difficult moments, creating meaningful farewells that honor every unique life.",
+    "heroLabel": "Who I Am",
+    "description": "With dignity and compassion, I accompany you",
     "intro": {
-      "subtitle": "Our Story",
+      "subtitle": "My Story",
       "title": "Compassionate Care When You Need It Most",
-      "description1": "At RuheWeg, we believe that every person deserves a farewell as unique as the life they lived. Our dedicated team brings together years of experience, professional training, and genuine compassion to support families during their most challenging times.",
-      "description2": "We take pride in offering personalized services that reflect your wishes and honor your loved one's memory. From the first consultation to the final farewell, we walk alongside you with patience, understanding, and unwavering support.",
+      "description1": "At RuheWeg, I believe that every person deserves a farewell as unique as the life they lived. I bring years of experience, professional training, and genuine compassion to support families during their most challenging times.",
+      "description2": "I take pride in offering personalized services that reflect your wishes and honor your loved one's memory. From the first consultation to the final farewell, I walk alongside you with patience, understanding, and unwavering support.",
       "available": "Available 24/7"
     },
     "journey": {
@@ -244,34 +244,34 @@
       "cert2": "Ceremonies Academy Zürich"
     },
     "values": {
-      "subtitle": "What Guides Us",
-      "title": "Our Core Values",
+      "subtitle": "What Guides Me",
+      "title": "My Core Values",
       "compassion": "Compassion",
-      "compassionDesc": "We approach every family with genuine empathy and understanding.",
+      "compassionDesc": "I approach every family with genuine empathy and understanding.",
       "dignity": "Dignity",
-      "dignityDesc": "We ensure every farewell honors the unique life it celebrates.",
+      "dignityDesc": "I ensure every farewell honors the unique life it celebrates.",
       "trust": "Trust",
-      "trustDesc": "We build lasting relationships through transparency and reliability.",
+      "trustDesc": "I build lasting relationships through transparency and reliability.",
       "professionalism": "Professionalism",
-      "professionalismDesc": "We deliver exceptional service with care and attention to detail."
+      "professionalismDesc": "I deliver exceptional service with care and attention to detail."
     },
     "mission": {
-      "title": "Our Mission",
-      "quote": "Every person deserves a farewell that honors their unique life journey and brings comfort, healing, and closure to those left behind. We are here to make that possible."
+      "title": "My Mission",
+      "quote": "Every person deserves a farewell that honors their unique life journey and brings comfort, healing, and closure to those left behind. I am here to make that possible."
     },
     "cta": {
-      "title": "Let Us Help You",
-      "description": "We're here to support you through this difficult time. Reach out for a compassionate conversation about how we can help.",
-      "button": "Contact Us Today"
+      "title": "Let Me Help You",
+      "description": "I'm here to support you through this difficult time. Reach out for a compassionate conversation about how I can help.",
+      "button": "Contact Me Today"
     }
   },
   "contactPage": {
     "title": "Contact",
-    "subtitle": "We are here for you – 24 hours a day, 7 days a week",
+    "subtitle": "I am here for you  24 hours a day, 7 days a week",
     "emergency": "Emergency line around the clock:",
     "info": {
       "title": "Contact Information",
-      "description": "We are always available for you. Don't hesitate to contact us – we are here to help.",
+      "description": "I am always available for you. Don't hesitate to contact me  I am here to help.",
       "phone": "Phone",
       "email": "Email",
       "address": "Address",
@@ -292,13 +292,13 @@
     "description": "As a certified freelance funeral speaker, trained at the Ceremonies Academy in Zürich, I specialize in non-confessional farewells. With over 40 years of experience as a baker and confectioner, I now dedicate myself to creating personalized funeral ceremonies. My own experience with the sudden loss of my brother drives my commitment to helping others say farewell with compassion and understanding."
   },
   "footer": {
-    "copyright": "© 2026 RuheWeg. All rights reserved.",
+    "copyright": " 2026 RuheWeg. All rights reserved.",
     "privacy": "Privacy Policy",
     "imprint": "Imprint",
     "terms": "Terms of Service",
     "tagline": "Dignified funeral services with compassion and care. Supporting families across Switzerland during life's most difficult moments.",
     "available247": "Available 24/7",
-    "servicesTitle": "Our Services",
+    "servicesTitle": "My Services",
     "services": {
       "burial": "Burial Services",
       "cremation": "Cremation Services",
@@ -313,15 +313,15 @@
   "faq": {
     "subtitle": "Common Questions",
     "title": "Frequently Asked Questions",
-    "description": "We understand you may have many questions. Here are answers to some of the most common ones.",
+    "description": "I understand you may have many questions. Here are answers to some of the most common ones.",
     "questions": {
       "q1": {
         "question": "What should I do immediately after a loved one passes away?",
-        "answer": "First, contact emergency services if needed, then reach out to us. We're available 24/7 and will guide you through every step, including obtaining the death certificate, arranging transportation, and beginning funeral planning."
+        "answer": "First, contact emergency services if needed, then reach out to me. I'm available 24/7 and will guide you through every step, including obtaining the death certificate, arranging transportation, and beginning funeral planning."
       },
       "q2": {
         "question": "How much do funeral services typically cost?",
-        "answer": "Costs vary based on the type of service and personal preferences. We offer transparent pricing and will provide a detailed estimate during our consultation. We also offer flexible payment options to ease financial concerns."
+        "answer": "Costs vary based on the type of service and personal preferences. I offer transparent pricing and will provide a detailed estimate during our consultation. I also offer flexible payment options to ease financial concerns."
       },
       "q3": {
         "question": "What is the difference between burial and cremation?",
@@ -329,11 +329,11 @@
       },
       "q4": {
         "question": "How long does it take to arrange a funeral?",
-        "answer": "Typically, a funeral can be arranged within 3-7 days. However, we can accommodate different timelines based on religious requirements, family needs, or other circumstances. We handle all logistics to ensure a smooth process."
+        "answer": "Typically, a funeral can be arranged within 3-7 days. However, I can accommodate different timelines based on religious requirements, family needs, or other circumstances. I handle all logistics to ensure a smooth process."
       },
       "q5": {
         "question": "Can we personalize the funeral service?",
-        "answer": "Absolutely. We encourage personalization to honor your loved one's unique life. This can include music choices, photo displays, readings, special rituals, or themed decorations that reflect their personality and interests."
+        "answer": "Absolutely. I encourage personalization to honor your loved one's unique life. This can include music choices, photo displays, readings, special rituals, or themed decorations that reflect their personality and interests."
       },
       "q6": {
         "question": "Do you offer pre-planning services?",
@@ -342,7 +342,7 @@
     }
   },
   "stats": {
-    "subtitle": "Our Impact",
+    "subtitle": "My Impact",
     "title": "Trusted by Families Across Switzerland",
     "items": {
       "families": {
@@ -365,41 +365,41 @@
   },
   "testimonials": {
     "subtitle": "Family Experiences",
-    "title": "What Families Say About Us",
+    "title": "What Families Say About Me",
     "items": {
       "testimonial1": {
         "name": "Michael S.",
         "location": "Zürich, Switzerland",
-        "quote": "During the most difficult time in our lives, RuheWeg was there for us with incredible compassion. They handled everything with such dignity and care. We couldn't have gotten through it without them."
+        "quote": "During the most difficult time in our lives, RuheWeg was there for us with incredible compassion. He handled everything with such dignity and care. We couldn't have gotten through it without him."
       },
       "testimonial2": {
         "name": "Anna K.",
         "location": "Bern, Switzerland",
-        "quote": "The team at RuheWeg made my mother's farewell truly special. They listened to our wishes and created a beautiful ceremony that perfectly honored her memory. Forever grateful."
+        "quote": "He made my mother's farewell truly special. He listened to our wishes and created a beautiful ceremony that perfectly honored her memory. Forever grateful."
       },
       "testimonial3": {
         "name": "Thomas M.",
         "location": "Aarau, Switzerland",
-        "quote": "Professional, compassionate, and available whenever we needed them. RuheWeg guided us through every step with patience and understanding. I highly recommend their services."
+        "quote": "Professional, compassionate, and available whenever we needed him. He guided us through every step with patience and understanding. I highly recommend his services."
       }
     }
   },
   "process": {
     "subtitle": "How It Works",
-    "title": "Our Simple Process",
-    "description": "We've designed our process to be as stress-free as possible, so you can focus on what matters most.",
+    "title": "My Simple Process",
+    "description": "I've designed my process to be as stress-free as possible, so you can focus on what matters most.",
     "steps": {
       "step1": {
         "title": "Initial Contact",
-        "description": "Call us anytime. We'll listen, answer your questions, and arrange an initial meeting at your convenience."
+        "description": "Call me anytime. I'll listen, answer your questions, and arrange an initial meeting at your convenience."
       },
       "step2": {
         "title": "Personal Consultation",
-        "description": "We meet to understand your wishes, discuss options, and create a plan that honors your loved one."
+        "description": "I meet with you to understand your wishes, discuss options, and create a plan that honors your loved one."
       },
       "step3": {
-        "title": "We Handle Everything",
-        "description": "From documentation to logistics, we take care of all the details so you don't have to worry."
+        "title": "I Handle Everything",
+        "description": "From documentation to logistics, I take care of all the details so you don't have to worry."
       },
       "step4": {
         "title": "Meaningful Farewell",
@@ -409,7 +409,8 @@
   },
   "floatingCta": {
     "title": "Need Immediate Help?",
-    "message": "We're available 24/7. Call us now for compassionate support.",
-    "ariaLabel": "Call us for immediate assistance"
+    "message": "I'm available 24/7. Call me now for compassionate support.",
+    "ariaLabel": "Call me for immediate assistance"
   }
 }
+

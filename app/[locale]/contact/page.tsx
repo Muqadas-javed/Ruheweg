@@ -136,7 +136,7 @@ function ContactPageContent() {
                     <a href="mailto:hanspeter.berger123@gmail.com" className="text-xl text-amber-600 font-medium hover:text-amber-700 transition-colors">
                       hanspeter.berger123@gmail.com
                     </a>
-                    <p className="text-sm text-stone-500 mt-1">We respond within 1 hour</p>
+                    <p className="text-sm text-stone-500 mt-1">I respond within 1 hour</p>
                   </div>
                 </div>
 
@@ -190,7 +190,7 @@ function ContactPageContent() {
                   <h2 className="font-serif text-3xl text-stone-800 mb-2">
                     {t('form.title')}
                   </h2>
-                  <p className="text-stone-500 mb-8">We&apos;ll get back to you as soon as possible.</p>
+                  <p className="text-stone-500 mb-8">I&apos;ll get back to you as soon as possible.</p>
                   <ContactForm />
                 </div>
               </div>
@@ -204,8 +204,8 @@ function ContactPageContent() {
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="max-w-7xl mx-auto">
             <div className="text-center mb-12">
-              <h2 className="font-serif text-3xl text-stone-800 mb-4">Find Us</h2>
-              <p className="text-stone-600">Visit our office or reach out online — we&apos;re here to help.</p>
+              <h2 className="font-serif text-3xl text-stone-800 mb-4">Find Me</h2>
+              <p className="text-stone-600">Visit my office or reach out online — I&apos;m here to help.</p>
             </div>
             <div className="rounded-3xl overflow-hidden shadow-xl border border-stone-200 h-[400px] relative bg-stone-100">
               {/* Placeholder for map - in production, replace with actual map */}
