@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "title": "RuheWeg | Dignified Funeral Services in Germany",
+    "title": "RuheWeg | Dignified Funeral Services in Switzerland",
     "description": "RuheWeg provides compassionate and professional funeral services, supporting families with dignity, care, and complete arrangements during difficult times. Available 24/7.",
-    "keywords": "funeral services Germany, burial services, cremation services, funeral planning, memorial services, compassionate funeral care"
+    "keywords": "funeral services Switzerland, burial services, cremation services, funeral planning, memorial services, compassionate funeral care"
   },
   "header": {
     "home": "Home",
@@ -16,7 +16,7 @@
   "hero": {
     "title": "You Don't Have to Face This Alone",
     "subtitle": "In moments of loss, we are here to carry some of the burden. With gentle guidance and heartfelt care, we help you honor your loved one's memory.",
-    "reassurance": "Serving families across Germany with compassion since day one. We understand — and we're here for you.",
+    "reassurance": "Serving families across Switzerland with compassion since day one. We understand — and we're here for you.",
     "availability": "Available 24/7 — Someone is always here when you need us",
     "callNow": "Call us now, day or night",
     "ctaSecondary": "Or send us a message"
@@ -25,7 +25,7 @@
     "title": "Complete Funeral Services",
     "subtitle": "How We Can Help",
     "emotionalLine": "During this difficult time, let us handle the details so you can focus on what matters most.",
-    "description": "We provide comprehensive funeral services throughout Germany, delivered with dignity, respect, and attention to every detail.",
+    "description": "We provide comprehensive funeral services throughout Switzerland, delivered with dignity, respect, and attention to every detail.",
     "viewAll": "View All Services",
     "services": {
       "burial": {
@@ -91,14 +91,15 @@
     "learnMore": "Learn More About Us"
   },
   "location": {
-    "title": "Serving Families Across Germany",
-    "description": "We provide funeral services throughout Germany, supporting families with respectful and professional care wherever you are located.",
+    "title": "Serving Families Across Switzerland",
+    "description": "We provide funeral services throughout Switzerland, supporting families with respectful and professional care wherever you are located.",
     "regions": {
-      "berlin": "Berlin",
-      "munich": "Munich",
-      "hamburg": "Hamburg",
-      "frankfurt": "Frankfurt",
-      "nationwide": "& Nationwide"
+      "zurich": "Zürich",
+      "baden": "Baden",
+      "brugg": "Brugg",
+      "aarau": "Aarau",
+      "bern": "Bern",
+      "solothurn": "Solothurn"
     }
   },
   "contactCta": {
@@ -213,7 +214,7 @@
     "phone": "Phone",
     "email": "Email",
     "address": "Address",
-    "addressValue": "\nJurastrasse 1, 5507 Mellingen, Switzerland, Germany",
+    "addressValue": "\nJurastrasse 1, 5507 Mellingen, Switzerland",
     "emergencyLine": "Emergency line available 24/7",
     "form": {
       "name": "Your Name",
@@ -274,7 +275,7 @@
       "phone": "Phone",
       "email": "Email",
       "address": "Address",
-      "addressValue": "\nJurastrasse 1, 5507 Mellingen, Switzerland, Germany"
+      "addressValue": "\nJurastrasse 1, 5507 Mellingen, Switzerland"
     },
     "form": {
       "title": "Send a Message",
@@ -295,7 +296,7 @@
     "privacy": "Privacy Policy",
     "imprint": "Imprint",
     "terms": "Terms of Service",
-    "tagline": "Dignified funeral services with compassion and care. Supporting families across Germany during life's most difficult moments.",
+    "tagline": "Dignified funeral services with compassion and care. Supporting families across Switzerland during life's most difficult moments.",
     "available247": "Available 24/7",
     "servicesTitle": "Our Services",
     "services": {
@@ -342,7 +343,7 @@
   },
   "stats": {
     "subtitle": "Our Impact",
-    "title": "Trusted by Families Across Germany",
+    "title": "Trusted by Families Across Switzerland",
     "items": {
       "families": {
         "value": "500+",
@@ -368,17 +369,17 @@
     "items": {
       "testimonial1": {
         "name": "Michael S.",
-        "location": "Berlin, Germany",
+        "location": "Zürich, Switzerland",
         "quote": "During the most difficult time in our lives, RuheWeg was there for us with incredible compassion. They handled everything with such dignity and care. We couldn't have gotten through it without them."
       },
       "testimonial2": {
         "name": "Anna K.",
-        "location": "Munich, Germany",
+        "location": "Bern, Switzerland",
         "quote": "The team at RuheWeg made my mother's farewell truly special. They listened to our wishes and created a beautiful ceremony that perfectly honored her memory. Forever grateful."
       },
       "testimonial3": {
         "name": "Thomas M.",
-        "location": "Hamburg, Germany",
+        "location": "Aarau, Switzerland",
         "quote": "Professional, compassionate, and available whenever we needed them. RuheWeg guided us through every step with patience and understanding. I highly recommend their services."
       }
     }

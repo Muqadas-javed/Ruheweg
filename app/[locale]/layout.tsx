@@ -82,7 +82,7 @@ export default async function LocaleLayout({
               "@context": "https://schema.org",
               "@type": "FuneralHome",
               "name": "RuheWeg",
-              "description": "Professional and compassionate funeral services in Germany",
+              "description": "Professional and compassionate funeral services in Switzerland",
               "url": "https://ruheweg.de",
               "telephone": "+49-123-456-789-00",
               "email": "hanspeter.berger123@gmail.com",
@@ -108,7 +108,7 @@ export default async function LocaleLayout({
               "sameAs": [],
               "serviceArea": {
                 "@type": "Country",
-                "name": "Germany"
+                "name": "Switzerland"
               },
               "hasOfferCatalog": {
                 "@type": "OfferCatalog",

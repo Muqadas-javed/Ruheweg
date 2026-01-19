@@ -20,7 +20,7 @@ export default function LocationSection() {
             {t('description')}
           </p>
           <div className="flex flex-wrap justify-center gap-4">
-            {['berlin', 'munich', 'hamburg', 'frankfurt', 'nationwide'].map((region) => (
+            {['zurich', 'baden', 'brugg', 'aarau', 'bern', 'solothurn'].map((region) => (
               <span
                 key={region}
                 className="px-4 py-2 bg-teal-600/50 rounded-full text-sm font-medium"

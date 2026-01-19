@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "title": "RuheWeg | Würdevolle Bestattungsdienstleistungen in Deutschland",
+    "title": "RuheWeg | Würdevolle Bestattungsdienstleistungen in der Schweiz",
     "description": "RuheWeg bietet einfühlsame und professionelle Bestattungsdienstleistungen. Wir unterstützen Familien mit Würde, Fürsorge und umfassenden Arrangements in schweren Zeiten. Rund um die Uhr erreichbar.",
-    "keywords": "Bestattungsdienstleistungen Deutschland, Beerdigung, Einäscherung, Trauerfeier, Gedenkfeier, einfühlsame Trauerbegleitung"
+    "keywords": "Bestattungsdienstleistungen Schweiz, Beerdigung, Einäscherung, Trauerfeier, Gedenkfeier, einfühlsame Trauerbegleitung"
   },
   "header": {
     "home": "Startseite",
@@ -16,7 +16,7 @@
   "hero": {
     "title": "Sie müssen das nicht alleine durchstehen",
     "subtitle": "In Momenten des Verlusts sind wir da, um Ihnen einen Teil der Last abzunehmen. Mit einfühlsamer Begleitung helfen wir Ihnen, das Andenken Ihres geliebten Menschen zu ehren.",
-    "reassurance": "Wir begleiten Familien in ganz Deutschland mit Mitgefühl. Wir verstehen — und wir sind für Sie da.",
+    "reassurance": "Wir begleiten Familien in der ganzen Schweiz mit Mitgefühl. Wir verstehen — und wir sind für Sie da.",
     "availability": "Rund um die Uhr erreichbar — Jemand ist immer für Sie da",
     "callNow": "Rufen Sie uns jetzt an, Tag oder Nacht",
     "ctaSecondary": "Oder senden Sie uns eine Nachricht"
@@ -25,7 +25,7 @@
     "title": "Umfassende Bestattungsdienstleistungen",
     "subtitle": "Wie wir helfen können",
     "emotionalLine": "In dieser schweren Zeit kümmern wir uns um die Details, damit Sie sich auf das Wesentliche konzentrieren können.",
-    "description": "Wir bieten umfassende Bestattungsdienstleistungen in ganz Deutschland, erbracht mit Würde, Respekt und Liebe zum Detail.",
+    "description": "Wir bieten umfassende Bestattungsdienstleistungen in der ganzen Schweiz, erbracht mit Würde, Respekt und Liebe zum Detail.",
     "viewAll": "Alle Leistungen ansehen",
     "services": {
       "burial": {
@@ -91,14 +91,15 @@
     "learnMore": "Mehr über uns erfahren"
   },
   "location": {
-    "title": "Für Familien in ganz Deutschland",
-    "description": "Wir bieten Bestattungsdienstleistungen in ganz Deutschland und unterstützen Familien mit respektvoller und professioneller Betreuung, wo auch immer Sie sich befinden.",
+    "title": "Für Familien in der ganzen Schweiz",
+    "description": "Wir bieten Bestattungsdienstleistungen in der ganzen Schweiz und unterstützen Familien mit respektvoller und professioneller Betreuung, wo auch immer Sie sich befinden.",
     "regions": {
-      "berlin": "Berlin",
-      "munich": "München",
-      "hamburg": "Hamburg",
-      "frankfurt": "Frankfurt",
-      "nationwide": "& Bundesweit"
+      "zurich": "Zürich",
+      "baden": "Baden",
+      "brugg": "Brugg",
+      "aarau": "Aarau",
+      "bern": "Bern",
+      "solothurn": "Solothurn"
     }
   },
   "contactCta": {
@@ -295,7 +296,7 @@
     "privacy": "Datenschutz",
     "imprint": "Impressum",
     "terms": "Nutzungsbedingungen",
-    "tagline": "Würdevolle Bestattungsdienstleistungen mit Mitgefühl und Fürsorge. Wir unterstützen Familien in ganz Deutschland in den schwierigsten Momenten des Lebens.",
+    "tagline": "Würdevolle Bestattungsdienstleistungen mit Mitgefühl und Fürsorge. Wir unterstützen Familien in der ganzen Schweiz in den schwierigsten Momenten des Lebens.",
     "available247": "Rund um die Uhr erreichbar",
     "servicesTitle": "Unsere Leistungen",
     "services": {
@@ -342,7 +343,7 @@
   },
   "stats": {
     "subtitle": "Unsere Wirkung",
-    "title": "Vertraut von Familien in ganz Deutschland",
+    "title": "Vertraut von Familien in der ganzen Schweiz",
     "items": {
       "families": {
         "value": "500+",
@@ -368,17 +369,17 @@
     "items": {
       "testimonial1": {
         "name": "Michael S.",
-        "location": "Berlin, Deutschland",
+        "location": "Zürich, Schweiz",
         "quote": "In der schwierigsten Zeit unseres Lebens war RuheWeg mit unglaublichem Mitgefühl für uns da. Sie haben alles mit solcher Würde und Fürsorge gehandhabt. Wir hätten es ohne sie nicht geschafft."
       },
       "testimonial2": {
         "name": "Anna K.",
-        "location": "München, Deutschland",
+        "location": "Bern, Schweiz",
         "quote": "Das Team von RuheWeg hat den Abschied meiner Mutter wirklich besonders gemacht. Sie haben auf unsere Wünsche gehört und eine wunderschöne Zeremonie gestaltet. Für immer dankbar."
       },
       "testimonial3": {
         "name": "Thomas M.",
-        "location": "Hamburg, Deutschland",
+        "location": "Aarau, Schweiz",
         "quote": "Professionell, einfühlsam und immer erreichbar, wenn wir sie brauchten. RuheWeg hat uns mit Geduld und Verständnis durch jeden Schritt begleitet. Ich empfehle ihre Dienste sehr."
       }
     }

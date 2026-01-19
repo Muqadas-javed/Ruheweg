@@ -11,7 +11,7 @@ export default function HeroSection() {
       <div className="absolute inset-0">
         <Image
           src="/images/image1.png"
-          alt="Dignified funeral ceremony - professional funeral services in Germany"
+          alt="Dignified funeral ceremony - professional funeral services in Switzerland"
           fill
           className="object-cover"
           priority
