@@ -16,7 +16,7 @@ export default function JourneySection() {
                 <div className="absolute -inset-4 bg-gradient-to-br from-amber-200/50 to-stone-200/50 rounded-full blur-sm"></div>
                 <div className="relative w-72 h-72 sm:w-80 sm:h-80 rounded-full overflow-hidden border-4 border-white shadow-xl">
                   <Image
-                    src="/images/about.png"
+                    src="/images/RuheWeg.jpeg"
                     alt="Portrait"
                     fill
                     className="object-cover"

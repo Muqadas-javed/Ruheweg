@@ -14,10 +14,10 @@ export default function AboutPreview() {
             <div className="relative">
               <div className="relative aspect-[4/3] rounded-2xl overflow-hidden shadow-xl">
                 <Image
-                  src="https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e?q=80&w=1974&auto=format&fit=crop"
+                  src="/images/RuheWeg.jpeg"
                   alt="Compassionate funeral director consultation"
                   fill
-                  className="object-cover"
+                  className="object-cover object-[center_20%]"
                 />
               </div>
               {/* Decorative element */}
